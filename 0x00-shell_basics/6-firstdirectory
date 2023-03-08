@@ -1,2 +1,3 @@
 #!/bin/bash
 mkdik /tmp/my_first_directory/: directory
+mkdik /tmp/my_first_directory
